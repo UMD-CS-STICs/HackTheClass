@@ -1,4 +1,3 @@
-# OSINT Challenges
+# Ethics HW
 
 ## Coming soon!
-

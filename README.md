@@ -78,21 +78,23 @@ Any request for reconsideration of any grading on coursework must be submitted w
 
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (TBD) | Introduction + Ethics + Linux | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
-| 2 (TBD) | Linux + OSINT + OPSEC | [Challenges.](week/2/challenges) Write-up 1.|
-| 3 (TBD) | Vulnerability scanning | Write-up 2. |
-| 4 (TBD) | Penetration testing I | Write-up 3. |
-| 5 (TBD) | Penetration testing II | [Challenges.](week/5/challenges) Write-up 4. |
-| 6 (TBD) | Forensics I | Write-up 5. |
-| 7 (TBD) | Forensics II | [Challenges.](week/7/challenges) Write-up 6. |
-| 8 (TBD) | Binaries I | Write-up 7. |
-| 9 (TBD) | Binaries II | [Challenges.](week/9/challenges) Write-up 8. |
-| 10 (TBD) | Web I | Write-up 9. |
-| 11 (TBD) | Web II | [Challenges.](week/11/challenges) Write-up 10. |
-| 12 (TBD) | Cryptology I | Write-up 11. |
-| 13 (TBD) | Cryptology II | [Challenges.](week/13/challenges) Write-up 12. |
-| 14 (TBD) | CTF | Write-up 13. |
-| 15 (TBD) | Lock picking | Write-up 14. |
+| 1 (1/26) | Introduction + Ethics + Linux | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
+| 2 (2/2) | Linux + OSINT + OPSEC | [Challenges.](week/2/challenges) Write-up 1.|
+| 3 (2/9) | Vulnerability scanning | Write-up 2. |
+| 4 (2/16) | Penetration testing I | Write-up 3. |
+| 5 (2/23) | Penetration testing II | [Challenges.](week/5/challenges) Write-up 4. |
+| 6 (3/2) | Forensics I | Write-up 5. |
+| 7 (3/9) | Forensics II | [Challenges.](week/7/challenges) Write-up 6. |
+| 8 (3/16) | Binaries I | Write-up 7. |
+| 9 (3/23) | Binaries II | [Challenges.](week/9/challenges) Write-up 8. |
+| 10 (3/30) | Web I | Write-up 9. |
+| 11 (4/6) | Web II | [Challenges.](week/11/challenges) Write-up 10. |
+| 12 (4/13) | Cryptology I | Write-up 11. |
+| 13 (4/20) | Cryptology II | [Challenges.](week/13/challenges) Write-up 12. |
+| 14 (4/27) | CTF | Write-up 13. |
+| 15 (5/4) | Lock picking | Write-up 14. |
+
+The timeline is not final and can be subject to change.
 
 ## Communicating with course staff
 Outside of class interaction between students and course staff will occur via piazza.
