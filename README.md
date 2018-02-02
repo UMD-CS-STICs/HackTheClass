@@ -79,7 +79,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | Week | Topic | Assignment |
 | ----|----|----- |
 | 1 (1/26) | [Introduction + Ethics 1](week/1/Introduction.pdf) | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
-| 2 (2/2) | Ethics 2 + Linux + OSINT + OPSEC | [Challenges.](week/2/challenges) Write-up 1.|
+| 2 (2/2) | [Ethics 2 + OSINT + OPSEC](week/2/OSINT.pdf) | [Challenges.](week/2/challenges) Write-up 1.|
 | 3 (2/9) | Vulnerability scanning | Write-up 2. |
 | 4 (2/16) | Penetration testing I | Write-up 3. |
 | 5 (2/23) | Penetration testing II | [Challenges.](week/5/challenges) Write-up 4. |
