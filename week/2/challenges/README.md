@@ -7,8 +7,7 @@ This assignment has two parts. It is due by 2/8 at 11:59 PM.
 To submit your homework, please post your responses as either a public note **or** as a link
 to your publicly available writeup on Piazza.
 
-
-**If you do not submit a timestamped description, we will need you to resubmit for 5% off!**
+**There will be a late penalty of 5% off per day late!**
 
 ### Part 1
 
