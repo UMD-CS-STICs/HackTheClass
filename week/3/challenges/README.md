@@ -36,7 +36,7 @@ Answer the following questions pertaining to the Briong server.
 
 ### Part 2
 
-Use the provided stub code (`stub.py`)[week/3/challenges/stub.py] or write your own program in another language to gain access to the Briong server.
+Use the provided stub code [(`stub.py`)](week/3/challenges/stub.py) or write your own program in another language to gain access to the Briong server.
 Once you have gained access to the Briong server with the correct login credentials, you will be prompted with a Linux bash shell.
 Use your knowledge of Linux commands to locate the file `flag.txt`, read it, and submit the flag found inside of the file.
 The format for the flag is `CMSC389R-{}`.
