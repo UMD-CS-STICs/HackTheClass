@@ -3,7 +3,7 @@ Pentesting I
 
 ## Assignment details
 
-This assignment has two parts. It is due by 2/15 at 11:59 PM.
+This assignment has two parts. It is due by 2/22 at 11:59 PM.
 To submit your homework, please post your responses as either a public note **or** as a link
 to your publicly available writeup on Piazza.
 
