@@ -85,7 +85,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 5 (2/23) | [Penetration testing II](week/5/Pentesting-2.pdf) | [Challenges.](week/5/challenges) Write-up 4. |
 | 6 (3/2) | Forensics I | [Challenges.](week/6/challenges) Write-up 5. |
 | 7 (3/9) | Forensics II | [Challenges.](week/7/challenges) Write-up 6. |
-| 8 (3/16) | Midterm | Start of spring break |
+| 8 (3/16) | Midterm | Start of spring break. |
 | 9 (3/30) | Binaries I | [Challenges.](week/9/challenges) Write-up 7. |
 | 10 (4/6) | Binaries II | [Challenges.](week/10/challenges) Write-up 8. |
 | 11 (4/13) | Web | [Challenges.](week/11/challenges) Write-up 9. |
