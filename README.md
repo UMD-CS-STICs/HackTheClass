@@ -81,17 +81,17 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 1 (1/26) | [Introduction + Ethics 1](week/1/Introduction.pdf) | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
 | 2 (2/2) | [Ethics 2 + OSINT 1](week/2/OSINT.pdf) | [Challenges.](week/2/challenges/README.md) Write-up 1. [Kali VM installation instructions](week/2/kali_instructions.pdf)|
 | 3 (2/9) | [OSINT 2 + Vulnerability scanning](week/3/OSINT2-Vulnerability-Scanning.pdf) | [Challenges.](week/3/challenges/README.md) Write-up 2. |
-| 4 (2/16) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Challenges.](week/4/challenges/README.md) |
+| 4 (2/16) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Challenges.](week/4/challenges/README.md) Write-up 3. |
 | 5 (2/23) | [Penetration testing II](week/5/Pentesting-2.pdf) | [Challenges.](week/5/challenges) Write-up 4. |
-| 6 (3/2) | Forensics I | Write-up 5. |
+| 6 (3/2) | Forensics I | [Challenges.](week/6/challenges) Write-up 5. |
 | 7 (3/9) | Forensics II | [Challenges.](week/7/challenges) Write-up 6. |
 | 8 (3/16) | Midterm | Start of spring break |
-| 9 (3/30) | Binaries I | [Challenges.](week/9/challenges) Write-up 8. |
-| 10 (4/6) | Binaries II | Write-up 9. |
-| 11 (4/13) | Web | [Challenges.](week/11/challenges) Write-up 10. |
-| 12 (4/20) | Cryptology I | Write-up 11. |
-| 13 (4/27) | Cryptology II | [Challenges.](week/13/challenges) Write-up 12. |
-| 14 (5/4) | CTF + Lock picking | Write-up 13. |
+| 9 (3/30) | Binaries I | [Challenges.](week/9/challenges) Write-up 7. |
+| 10 (4/6) | Binaries II | [Challenges.](week/10/challenges) Write-up 8. |
+| 11 (4/13) | Web | [Challenges.](week/11/challenges) Write-up 9. |
+| 12 (4/20) | Cryptology I | [Challenges.](week/12/challenges) Write-up 10. |
+| 13 (4/27) | Cryptology II | [Challenges.](week/13/challenges) Write-up 11. |
+| 14 (5/4) | CTF + Lock picking | Final hack. |
 
 The timeline is not final and can be subject to change.
 
