@@ -33,21 +33,21 @@ Your task is to show Mark that he still has work to do! Find Mark's password, lo
 
 Note: If you're connecting to the server on UMD campus, we suggest using our class VPN in order to complete this assignment. Kali Linux already ships with the OpenVPN client, however if you do not already have it, simply run:
 
-    `$ apt-get install -y openvpn`
+    $ apt-get install -y openvpn
 
 Once that is complete, download the OpenVPN profile (`client.ovpn.zip`) within Kali and run:
 
-    `$ unzip client.ovpn.zip`
+    $ unzip client.ovpn.zip
 
 Enter the password provided in class...
 
-    `$ openvpn <path to client.ovpn file>`
+    $ openvpn <path to client.ovpn file>
 
 This will start a VPN tunnel to our class server where you will be able to run the exploits in our contained environment.
 Once connected to the VPN, you will only be able to access the class server and will not be able to access the outside internet.
 To make sure you are connected to our VPN, open a new terminal window and type:
 
-    `$ curl briong.com`
+    $ curl briong.com
 
 Which will make a request to http://briong.com to verify that your web traffic is being routed through our VPN properly. Similarly, you may open
 the Firefox web browser within Kali Linux and navigate to the briong website.
