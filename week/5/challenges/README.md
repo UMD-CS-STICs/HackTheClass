@@ -12,10 +12,7 @@ to your publicly available writeup on Piazza.
 
 ### Part 1
 
-*Note:* We're currently experiencing some problems with the VPN and we're working to resolve them ASAP.
-If you are accessing these challenges from within the campus network, please private message us to let us know
-about this and we will help get you connected to the challenges ASAP. Otherwise, continue working on part 2,
-and let us know if you have any questions. Thanks for your patience with this.
+*Note:* Please see: https://piazza.com/class/jct62c5eidm481?cid=170 if you are trying this homework within the campus network.
 
 
 Mark has now implemented some of the precautions described in your previous assignment, such as:
@@ -31,28 +28,8 @@ far, he claims that it hasn't.
 
 Your task is to show Mark that he still has work to do! Find Mark's password, locate the flag and (try to) crack the easter egg!
 
-Note: If you're connecting to the server on UMD campus, we suggest using our class VPN in order to complete this assignment. Kali Linux already ships with the OpenVPN client, however if you do not already have it, simply run:
 
-    $ apt-get install -y openvpn
-
-Once that is complete, download the OpenVPN profile (`client.ovpn.zip`) within Kali and run:
-
-    $ unzip client.ovpn.zip
-
-Enter the password provided in class...
-
-    $ openvpn <path to client.ovpn file>
-
-This will start a VPN tunnel to our class server where you will be able to run the exploits in our contained environment.
-Once connected to the VPN, you will only be able to access the class server and will not be able to access the outside internet.
-To make sure you are connected to our VPN, open a new terminal window and type:
-
-    $ curl briong.com
-
-Which will make a request to http://briong.com to verify that your web traffic is being routed through our VPN properly. Similarly, you may open
-the Firefox web browser within Kali Linux and navigate to the briong website.
-
-Let us know if you are having trouble connecting to the VPN.
+Let us know if you are having trouble connecting to the class Metasploit console.
 
 ### Part 2
 
