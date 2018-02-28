@@ -28,6 +28,7 @@ far, he claims that it hasn't.
 
 Your task is to show Mark that he still has work to do! Use Metasploit with CVE-2014-0160 to find Mark's password, locate the flag and (try to) crack the easter egg!
 
+*Note:* Once you have found the username, password, and flag (or have cracked the easter egg), you have completed the challenge. No need to look for a hidden admin panel to the Briong server.
 
 Let us know if you are having trouble connecting to the class Metasploit console.
 
