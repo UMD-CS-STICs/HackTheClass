@@ -18,7 +18,7 @@ $ sudo apt install exiftool steghide
 
 ### Part 1
 
-The `imagefun` file is a [JPEG image](https://en.wikipedia.org/wiki/JPEG). In this part,
+The `imagefun.jpg` file is a [JPEG image](https://en.wikipedia.org/wiki/JPEG). In this part,
 your job is to investigate its metadata:
 
 1. What kind of device took the photo? What specifics can you ascertain about it (the device), and
