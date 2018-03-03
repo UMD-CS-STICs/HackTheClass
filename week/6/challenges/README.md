@@ -57,7 +57,7 @@ answer.
 
 ### Scoring
 
-Part 1 is worth 40 points, and parts and 3 are worth 30 each.
+Part 1 is worth 40 points, and parts 2 and 3 are worth 30 each.
 
 ### Tips
 
