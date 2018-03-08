@@ -24,17 +24,17 @@ your job is to investigate its metadata:
 1. What kind of device took the photo? What specifics can you ascertain about it (the device), and
 why might they be relevant?
 2. When and where was the photo taken? Why might this be relevant?
-3. Find the flag(s) hidden in the photo.
+3. Find the two flags hidden in the photo.
 
 ### Part 2
 
-The `fubar.core` file contains a [core dump](https://en.wikipedia.org/wiki/Core_dump) from a running
-program. In this part, your job is to discover information about the program at runtime:
+The `fubar.core` file contains a [core dump](https://en.wikipedia.org/wiki/Core_dump) from a
+running program. In this part, your job is to discover information about the program at runtime:
 
 1. What kind of system was the program built for? (e.g., OS, libc version, compiler version)
 2. What arguments was the program run with?
 3. What was in the program's environment when it was dumped?
-4. Is there any data embedded in the program? If so, what is it?
+4. What other data is embedded in the program?
 
 ### Part 3
 
@@ -45,8 +45,8 @@ firewalls. In this part, your job is to analyze the traffic and reconstruct the 
 2. What was the relative URL of the page that was requested?
 3. Reconstruct the page (including images) and take a screenshot of it.
 4. Find the flag (there's only one!)
-5. Is there anything else interesting in the packet capture? If so, explain what it is and
-why you think it's interesting.
+5. What other connections/protocols are in the packet capture? Pick one, and explain why it
+might be interesting.
 
 ### Format
 
