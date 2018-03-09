@@ -86,11 +86,11 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 6 (3/2) | [Forensics I](week/6/Forensics-1.pdf) | [Challenges.](week/6/challenges) Write-up 5. |
 | 7 (3/9) | Forensics II | [Challenges.](week/7/challenges) Write-up 6. |
 | 8 (3/16) | Midterm | Start of spring break. |
-| 9 (3/30) | Binaries I | [Challenges.](week/9/challenges) Write-up 7. |
-| 10 (4/6) | Binaries II | [Challenges.](week/10/challenges) Write-up 8. |
+| 9 (3/30) | Cryptography I | [Challenges.](week/9/challenges) Write-up 7.|
+| 10 (4/6) | Cryptography II | [Challenges.](week/10/challenges) Write-up 8.|
 | 11 (4/13) | Web | [Challenges.](week/11/challenges) Write-up 9. |
-| 12 (4/20) | Cryptology I | [Challenges.](week/12/challenges) Write-up 10. |
-| 13 (4/27) | Cryptology II | [Challenges.](week/13/challenges) Write-up 11. |
+| 12 (4/20) | Binaries I | [Challenges.](week/12/challenges) Write-up 10. |
+| 10 (4/27) | Binaries II | [Challenges.](week/13/challenges) Write-up 11. |
 | 14 (5/4) | CTF + Lock picking | Final hack. |
 
 The timeline is not final and can be subject to change.
