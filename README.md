@@ -84,7 +84,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 4 (2/16) | [Penetration testing I](week/4/Pentesting-1.pdf) | [Challenges.](week/4/challenges/README.md) Write-up 3. |
 | 5 (2/23) | [Penetration testing II](week/5/Pentesting-2.pdf) | [Challenges.](week/5/challenges) Write-up 4. |
 | 6 (3/2) | [Forensics I](week/6/Forensics-1.pdf) | [Challenges.](week/6/challenges) Write-up 5. |
-| 7 (3/9) | Forensics II | [Challenges.](week/7/challenges) Write-up 6. |
+| 7 (3/9) | [Forensics II](week/7/Forensics-2.pdf) | [Challenges.](week/7/challenges) Write-up 6. |
 | 8 (3/16) | Midterm | Start of spring break. |
 | 9 (3/30) | Cryptography I | [Challenges.](week/9/challenges) Write-up 7.|
 | 10 (4/6) | Cryptography II | [Challenges.](week/10/challenges) Write-up 8.|
