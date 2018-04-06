@@ -87,7 +87,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 7 (3/9) | [Forensics II](week/7/Forensics-2.pdf) | [Challenges.](week/7/challenges) Write-up 6. |
 | 8 (3/16) | Midterm | Start of spring break. |
 | 9 (3/30) | [Cryptography I](week/9/Crypto-1.pdf) | [Challenges.](week/9/challenges) Write-up 7.|
-| 10 (4/6) | Cryptography II | [Challenges.](week/10/challenges) Write-up 8.|
+| 10 (4/6) | [Cryptography II](week/10/Crypto-2.pdf) | [Challenges.](week/10/challenges) Write-up 8.|
 | 11 (4/13) | Web | [Challenges.](week/11/challenges) Write-up 9. |
 | 12 (4/20) | Binaries I | [Challenges.](week/12/challenges) Write-up 10. |
 | 10 (4/27) | Binaries II | [Challenges.](week/13/challenges) Write-up 11. |
