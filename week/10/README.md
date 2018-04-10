@@ -23,7 +23,7 @@ on a custom payload. The notary lives on `159.89.236.106 5678`.
 
 ### Part 2
 
-Send us an encrypted email using this [PGP public key]() to `pgpassignment@gmail.com`. The body of the email should be formatted as such:
+Send us an encrypted email using this [PGP public key](challenges/pgpassignment.key) to `pgpassignment@gmail.com`. The body of the email should be formatted as such:
 
 ```
 Message
