@@ -19,7 +19,7 @@ Your task is to show the notary that this signature scheme is vulnerable to a
 hash length extension attack. You have heard that the length of the secret he
 uses is only 6 bytes (48 bits) long, so you won't need to try and determine this
 length yourself. Use the [stub.py](challenges/stub.py) code to help you craft a valid signature
-on a custom payload. The notary lives on `159.89.236.106 5678`.
+on a custom payload. The notary lives on `159.89.236.106:5678`. Thus, you may connect to the challenge over nc using: `$ nc 159.89.236.106 5678`
 
 ### Part 2
 
