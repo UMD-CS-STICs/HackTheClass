@@ -19,7 +19,7 @@ Your task is to show the notary that this signature scheme is vulnerable to a
 hash length extension attack. You have heard that the length of the secret he
 uses is only 6 bytes (48 bits) long, so you won't need to try and determine this
 length yourself. Use the [stub.py](stub.py) code to help you craft a valid signature
-on a custom payload. The notary lives on `irc.csec.umiacs.umd.edu 4444`.
+on a custom payload. The notary lives on `irc.csec.umiacs.umd.edu 5678`.
 
 ### Part 2
 
