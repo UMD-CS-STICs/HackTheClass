@@ -2,7 +2,7 @@
 
 ## Assignment details
 
-This assignment has two parts. It is due by 4/5/18 at 11:59PM. To submit your work, please post
+This assignment has two parts. It is due by 4/15/18 at 11:59PM. To submit your work, please post
 either a public note **or** a link to your publicly available writeup on Piazza.
 
 **There will be a late penalty of 5% per day late!**
@@ -19,7 +19,7 @@ Your task is to show the notary that this signature scheme is vulnerable to a
 hash length extension attack. You have heard that the length of the secret he
 uses is only 6 bytes (48 bits) long, so you won't need to try and determine this
 length yourself. Use the [stub.py](challenges/stub.py) code to help you craft a valid signature
-on a custom payload. The notary lives on `159.89.236.106:5678`. Thus, you may connect to the challenge over nc using: `$ nc 159.89.236.106 5678`
+on a custom payload. The notary lives on `159.89.236.106:5678`. Thus, you may connect to the challenge over nc using: `$ nc 159.89.236.106 5678`.
 
 ### Part 2
 
