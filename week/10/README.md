@@ -53,9 +53,9 @@ TNkRlxITrW5DdYxOdKEqyQ8idHAu+YKTgus9Ab0elw==
 
 ```
 
-If we are able to decrypt your message, we will send you an email back which will be encrypted with your public key. If you are successfully able to decrypt the message, then you will get a flag. 
+If we are able to decrypt your message, then we will send you an email back which will be encrypted with your public key. If you are successfully able to decrypt the message, then you will get a flag. 
 
-Show us the commands you used to do this. We suggest trying this out on your own first (sending yourself PGP encrypted emails using different PGP keys) and then testing it with us. You may choose to send us a signed message or not.
+In your writeup, show us the commands you used to do this. We suggest trying this assignment using two keys you control (sending yourself PGP encrypted emails using different PGP keys) and then testing it with us. You may choose to send us a signed message or not.
 
 
 #### Important notes
