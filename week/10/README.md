@@ -18,10 +18,45 @@ keep the same secret for every signature test.
 Your task is to show the notary that this signature scheme is vulnerable to a
 hash length extension attack. You have heard that the length of the secret he
 uses is only 6 bytes (48 bits) long, so you won't need to try and determine this
-length yourself. Use the [stub.py](stub.py) code to help you craft a valid signature
-on a custom payload. The notary lives on `irc.csec.umiacs.umd.edu 5678`.
+length yourself. Use the [stub.py](challenges/stub.py) code to help you craft a valid signature
+on a custom payload. The notary lives on `159.89.236.106 5678`.
 
 ### Part 2
+
+Send us an encrypted email using this [PGP public key]() to `pgpassignment@gmail.com`. The body of the email should be formatted as such:
+
+```
+Message
+
+Your PGP public key
+```
+
+For example:
+
+```
+-----BEGIN PGP MESSAGE-----
+
+hQEMA5H4hkZSunZWAQf+PHS12Pi6U/lrKnkysNgiThnclRown2YwLH2cZ4AAB/uW
+...
+SqSKFAsbViMw6dd0tfY6Ssz5Jteb0imV/h4nNQ3eRO6aiyg=
+=CRCE
+-----END PGP MESSAGE-----
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFrMIqgBCADwQGU9JzZBiPqPzW6z58gW03ywxwr+IWBS8G+D0eH3xHPwqahL
+...
+rOVihu+kweme13cUB4TdymIyjiU+fFACycql1kgsy8w2Tk
+TNkRlxITrW5DdYxOdKEqyQ8idHAu+YKTgus9Ab0elw==
+=T1aV
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
+
+If we are able to decrypt your message, we will send you an email back which will be encrypted with your public key. If you are successfully able to decrypt the message, then you will get a flag. 
+
+Show us the commands you used to do this. We suggest trying this out on your own first (sending yourself PGP encrypted emails using different PGP keys) and then testing it with us. You may choose to send us a signed message or not.
+
 
 #### Important notes
 
