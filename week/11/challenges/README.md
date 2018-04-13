@@ -26,8 +26,8 @@ Produce a writeup. We will not take off points for viewing the source code and/o
 
 ### Format
 
-All three parts should be written in the same blog post, clearly separated.
-Part 1 and 3 can be answered in bullet form or full, grammatical sentences.
+All two parts should be written in the same blog post, clearly separated.
+Part 1 and 2 can be answered in bullet form or full, grammatical sentences.
 
 ### Scoring
 
