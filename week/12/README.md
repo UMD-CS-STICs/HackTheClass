@@ -2,7 +2,7 @@
 
 ## Assignment details
 
-This assignment has two parts. It is due by 4/26/18 at 11:59PM. To submit your work, please post
+This assignment has two parts. It is due by 4/29/18 at 11:59PM. To submit your work, please post
 either a public note **or** a link to your publicly available writeup on Piazza.
 
 **There will be a late penalty of 5% per day late!**
