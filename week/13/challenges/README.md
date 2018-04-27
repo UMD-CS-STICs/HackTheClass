@@ -1,3 +1,0 @@
-# Cryptology Challenges
-
-## Coming soon!
