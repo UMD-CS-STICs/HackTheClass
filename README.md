@@ -90,7 +90,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 10 (4/6) | [Cryptography II](week/10/Crypto-2.pdf) | [Challenges.](week/10/) Write-up 8.|
 | 11 (4/13) | [Web](week/11/Web.pdf) | [Challenges.](week/11/challenges) Write-up 9. |
 | 12 (4/20) | [Binaries I](week/12/Binaries-1.pdf) | [Challenges.](week/12/challenges) Write-up 10. |
-| 10 (4/27) | [Binaries II](week/13/Binaries-2.pdf) | [Challenges.](week/13/challenges) Write-up 11. |
+| 10 (4/27) | [Binaries II](week/13/Binaries-2.pdf) | [Challenges.](https://github.com/UMD-CS-STICs/389Rspring18/tree/master/week/13) Write-up 11. |
 | 14 (5/4) | CTF + Lock picking | Final hack. |
 
 The timeline is not final and can be subject to change.
