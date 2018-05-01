@@ -25,7 +25,7 @@ The two binaries are located in [stackexchange](challenges/stackexchange) and
 You are trying to access a restricted resource on the Briong server, which uses
 a vulnerable password checker. Luckily, you have someone on the inside that has
 leaked the source code for the checker. Scan through the code to see if you can
-break in. `nc <ip_addr> <port>`. [outofbounds.c](challenges/outofbounds.c)
+break in. `nc 167.99.224.34 9998`. [outofbounds.c](challenges/outofbounds.c)
 
 Your writeup should include a brief description of what the program does,
 what might be going wrong with the program, how you utilized this vulnerability,
