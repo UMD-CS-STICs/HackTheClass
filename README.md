@@ -109,7 +109,7 @@ Michael Reininger - michael@csec.umiacs.umd.edu
 
 William Woodruff - william@yossarian.net
 
-Joshua Fleming - secretary@csec.umiacs.umd.edu
+Joshua Fleming - jsfleming@pm.me
 
 
 ## Excused Absence and Academic Accommodations
